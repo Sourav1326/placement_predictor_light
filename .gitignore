@@ -1,0 +1,13 @@
+# Virtual Environments
+venv/
+placement_env/
+portable_env/
+portable_python/
+requirements_cache/
+
+# Python compilation files
+__pycache__/
+*.pyc
+
+# Database and large files
+*.db
